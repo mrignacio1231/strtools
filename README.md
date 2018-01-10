@@ -39,5 +39,5 @@ strtools.IsString(12.4) // Output: false
 
 Generate a random string with Random() function
 ```go
-strtools.Random() // Return a random string
+strtools.Random(6) // Return a random string 
 ```
